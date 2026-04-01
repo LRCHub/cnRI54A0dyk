@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "base_track": "小喋日和",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2026-04-01T13:51:53.755248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "小喋日和",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/01_小喋日和_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "小喋日和 - Koshaberibiyori",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/02_小喋日和_-_Koshaberibiyori_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "小喋日和 - Koshaberibiyori",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/03_小喋日和_-_Koshaberibiyori_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "小喋日和",
+      "artist": "FantasticYouth",
+      "has_synced": false,
+      "path": "select/04_小喋日和_FantasticYouth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "46.小喋日和",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/05_46.小喋日和_FantasticYouth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "小喋日和",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_小喋日和_Fantastic_Youth.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "小喋日和",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/localdb_01_小喋日和_FantasticYouth.lrc",
+      "repo_name": "cnRI54A0dyk"
+    }
+  ]
+}
